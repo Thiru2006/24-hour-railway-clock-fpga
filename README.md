@@ -370,7 +370,7 @@ reinforced:
 | Field          | Details                                             |
 |---------------|------------------------------------------------------|
 | Name           | Thirugnanam V S                                    |
-| Student ID     | 24BVD1074                                          |
+| Student ID     | 24BVD1004                                          |
 | Programme      | B.Tech Electronics Engineering (VLSI Design & Technology) |
 | Institution    | VIT Chennai                                        |
 | Course         | Digital System Design (DSD)                        |
