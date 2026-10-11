@@ -367,15 +367,15 @@ reinforced:
 
 ## Author
 
-| Field          | Details                                             |
-|---------------|------------------------------------------------------|
-| Name           | Thirugnanam V S                                    |
-| Student ID     | 24BVD1004                                          |
-| Programme      | B.Tech Electronics Engineering (VLSI Design & Technology) |
-| Institution    | VIT Chennai                                        |
-| Course         | Digital System Design (DSD)                        |
-| Batch          | Batch 5                                            |
-| Year           | 2024–2025                                          |
+| Field          | Author 1                                             | Author 2                                             |
+|----------------|------------------------------------------------------|------------------------------------------------------|
+| Name           | Thirugnanam V S                                      | V P Savitha Devi                                     |
+| Student ID     | 24BVD1004                                            | 24BVD1074                                            |
+| Programme      | B.Tech Electronics Engineering (VLSI Design & Technology) | B.Tech Electronics Engineering (VLSI Design & Technology) |
+| Institution    | VIT Chennai                                          | VIT Chennai                                          |
+| Course         | Digital System Design (DSD)                          | Digital System Design (DSD)                          |
+| Batch          | Batch 5                                              | Batch 5                                              |
+| Year           | 2024–2025                                            | 2024–2025                                            |
 
 ---
 
